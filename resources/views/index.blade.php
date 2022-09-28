@@ -5,7 +5,7 @@
 </head>
 <body>
 
-	<h2><a href="#">Kepegawaian</a></h2>
+	<h2><a href="#">Kepegawaian PT Sinar Matahari Fana</a></h2>
 	<h3>Data Pegawai</h3>
 
 	<a href="/pegawai/tambah"> + Tambah Pegawai Baru</a>
