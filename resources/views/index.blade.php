@@ -7,7 +7,7 @@
 </head>
 <body>
 
-	<div class="container">
+	<div class="container py-5">
 	<h2><a href="#">Kepegawaian PT Sinar Matahari Fana</a></h2>
 	<h3>Data Pegawai</h3>
 
