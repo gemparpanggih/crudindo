@@ -13,8 +13,8 @@
 
 		<a href="/pegawai/tambah"> + Tambah Pegawai Baru</a>
 
-		<br/>
-		<br/>
+			<br/>
+			<br/>
 
 			<table border="1" class="table table-hover table-striped">
 				<tr>
